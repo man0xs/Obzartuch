@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Migdały",
+    "icon": "almonds",
+    "protein": 6,
+    "kcal": 160,
+    "sugar": 1,
+    "healthy": true
+  },
+  {
+    "name": "Czerwone jabłko",
+    "icon": "apple_red",
+    "protein": 0,
+    "kcal": 80,
+    "sugar": 14,
+    "healthy": true
+  },
+  {
+    "name": "Połówka awokado",
+    "icon": "avocado_half",
+    "protein": 2,
+    "kcal": 160,
+    "sugar": 1,
+    "healthy": true
+  },
+  {
+    "name": "Bekon",
+    "icon": "bacon",
+    "protein": 12,
+    "kcal": 180,
+    "sugar": 0,
+    "healthy": false
+  },
+  {
+    "name": "Bajgiel",
+    "icon": "bagel",
+    "protein": 10,
+    "kcal": 250,
+    "sugar": 5,
+    "healthy": true
+  },
+  {
+    "name": "Bagietka",
+    "icon": "baguette",
+    "protein": 9,
+    "kcal": 270,
+    "sugar": 4,
+    "healthy": true
+  },
+  {
+    "name": "Banan",
+    "icon": "banana",
+    "protein": 1,
+    "kcal": 105,
+    "sugar": 14,
+    "healthy": true
+  },
+  {
+    "name": "Czerwona papryka",
+    "icon": "bell_pepper_red",
+    "protein": 1,
+    "kcal": 35,
+    "sugar": 4,
+    "healthy": true
+  },
+  {
+    "name": "Borówki",
+    "icon": "blueberries",
+    "protein": 1,
+    "kcal": 60,
+    "sugar": 10,
+    "healthy": true
+  },
+  {
+    "name": "Chleb pszenny",
+    "icon": "bread_loaf_white",
+    "protein": 8,
+    "kcal": 220,
+    "sugar": 4,
+    "healthy": true
+  },
+  {
+    "name": "Burger",
+    "icon": "burger",
+    "protein": 22,
+    "kcal": 480,
+    "sugar": 8,
+    "healthy": false
+  },
+  {
+    "name": "Burrito",
+    "icon": "burrito",
+    "protein": 18,
+    "kcal": 410,
+    "sugar": 4,
+    "healthy": true
+  },
+  {
+    "name": "Ciasto czekoladowe",
+    "icon": "cake_slice_chocolate",
+    "protein": 5,
+    "kcal": 370,
+    "sugar": 28,
+    "healthy": false
+  },
+  {
+    "name": "Laska cukrowa",
+    "icon": "candy_cane",
+    "protein": 0,
+    "kcal": 110,
+    "sugar": 26,
+    "healthy": false
+  },
+  {
+    "name": "Cukierki kukurydziane",
+    "icon": "candy_corn",
+    "protein": 0,
+    "kcal": 140,
+    "sugar": 29,
+    "healthy": false
+  },
+  {
+    "name": "Marchewka",
+    "icon": "carrot",
+    "protein": 1,
+    "kcal": 30,
+    "sugar": 4,
+    "healthy": true
+  },
+  {
+    "name": "Ser żółty",
+    "icon": "cheese",
+    "protein": 14,
+    "kcal": 200,
+    "sugar": 1,
+    "healthy": true
+  },
+  {
+    "name": "Czereśnie",
+    "icon": "cherries",
+    "protein": 1,
+    "kcal": 65,
+    "sugar": 12,
+    "healthy": true
+  },
+  {
+    "name": "Kasztan jadalny",
+    "icon": "chestnut",
+    "protein": 3,
+    "kcal": 170,
+    "sugar": 6,
+    "healthy": true
+  },
+  {
+    "name": "Pieczone udko z kurczaka",
+    "icon": "chicken_drumstick_cooked",
+    "protein": 24,
+    "kcal": 210,
+    "sugar": 0,
+    "healthy": true
+  },
+  {
+    "name": "Nuggetsy z kurczaka",
+    "icon": "chicken_nuggets",
+    "protein": 15,
+    "kcal": 290,
+    "sugar": 1,
+    "healthy": false
+  },
+  {
+    "name": "Czekolada",
+    "icon": "chocolate",
+    "protein": 4,
+    "kcal": 270,
+    "sugar": 27,
+    "healthy": false
+  },
+  {
+    "name": "Churros",
+    "icon": "churro",
+    "protein": 4,
+    "kcal": 260,
+    "sugar": 16,
+    "healthy": false
+  },
+  {
+    "name": "Ciastko z czekoladą",
+    "icon": "cookie",
+    "protein": 3,
+    "kcal": 220,
+    "sugar": 18,
+    "healthy": false
+  },
+  {
+    "name": "Croissant",
+    "icon": "croissant",
+    "protein": 6,
+    "kcal": 270,
+    "sugar": 8,
+    "healthy": false
+  },
+  {
+    "name": "Ogórek",
+    "icon": "cucumber",
+    "protein": 1,
+    "kcal": 20,
+    "sugar": 2,
+    "healthy": true
+  },
+  {
+    "name": "Babeczka czekoladowa",
+    "icon": "cupcake_chocolate",
+    "protein": 4,
+    "kcal": 310,
+    "sugar": 26,
+    "healthy": false
+  },
+  {
+    "name": "Różowy pączek",
+    "icon": "doughnut_pink",
+    "protein": 4,
+    "kcal": 290,
+    "sugar": 21,
+    "healthy": false
+  },
+  {
+    "name": "Pieróg",
+    "icon": "dumpling",
+    "protein": 9,
+    "kcal": 210,
+    "sugar": 2,
+    "healthy": true
+  },
+  {
+    "name": "Jajko sadzone",
+    "icon": "egg_fried",
+    "protein": 13,
+    "kcal": 150,
+    "sugar": 1,
+    "healthy": true
+  },
+  {
+    "name": "Paluszki rybne",
+    "icon": "fish_sticks",
+    "protein": 12,
+    "kcal": 240,
+    "sugar": 2,
+    "healthy": false
+  },
+  {
+    "name": "Frytki",
+    "icon": "french_fries",
+    "protein": 4,
+    "kcal": 340,
+    "sugar": 1,
+    "healthy": false
+  },
+  {
+    "name": "Keks owocowy",
+    "icon": "fruitcake",
+    "protein": 4,
+    "kcal": 320,
+    "sugar": 26,
+    "healthy": false
+  },
+  {
+    "name": "Ciemne winogrona",
+    "icon": "grapes_purple",
+    "protein": 1,
+    "kcal": 70,
+    "sugar": 15,
+    "healthy": true
+  },
+  {
+    "name": "Hot-dog",
+    "icon": "hotdog",
+    "protein": 11,
+    "kcal": 310,
+    "sugar": 5,
+    "healthy": false
+  },
+  {
+    "name": "Lody czekoladowe",
+    "icon": "icecream_chocolate",
+    "protein": 4,
+    "kcal": 250,
+    "sugar": 24,
+    "healthy": false
+  },
+  {
+    "name": "Kiwi",
+    "icon": "kiwi",
+    "protein": 1,
+    "kcal": 45,
+    "sugar": 7,
+    "healthy": true
+  },
+  {
+    "name": "Lizak",
+    "icon": "lollipop",
+    "protein": 0,
+    "kcal": 90,
+    "sugar": 22,
+    "healthy": false
+  },
+  {
+    "name": "Mango",
+    "icon": "mango",
+    "protein": 1,
+    "kcal": 95,
+    "sugar": 19,
+    "healthy": true
+  },
+  {
+    "name": "Muffinka",
+    "icon": "muffin_plain",
+    "protein": 5,
+    "kcal": 300,
+    "sugar": 20,
+    "healthy": false
+  },
+  {
+    "name": "Pieczarka",
+    "icon": "mushroom",
+    "protein": 3,
+    "kcal": 25,
+    "sugar": 1,
+    "healthy": true
+  },
+  {
+    "name": "Krążki cebulowe",
+    "icon": "onionrings",
+    "protein": 4,
+    "kcal": 320,
+    "sugar": 4,
+    "healthy": false
+  },
+  {
+    "name": "Pomarańcza",
+    "icon": "orange",
+    "protein": 1,
+    "kcal": 65,
+    "sugar": 12,
+    "healthy": true
+  },
+  {
+    "name": "Naleśniki",
+    "icon": "pancakes",
+    "protein": 7,
+    "kcal": 260,
+    "sugar": 9,
+    "healthy": true
+  },
+  {
+    "name": "Groszek w strączku",
+    "icon": "pea_pod",
+    "protein": 5,
+    "kcal": 60,
+    "sugar": 4,
+    "healthy": true
+  },
+  {
+    "name": "Brzoskwinia",
+    "icon": "peach",
+    "protein": 1,
+    "kcal": 60,
+    "sugar": 12,
+    "healthy": true
+  },
+  {
+    "name": "Orzeszki ziemne",
+    "icon": "peanut",
+    "protein": 15,
+    "kcal": 280,
+    "sugar": 2,
+    "healthy": true
+  },
+  {
+    "name": "Gruszka",
+    "icon": "pear",
+    "protein": 0,
+    "kcal": 85,
+    "sugar": 15,
+    "healthy": true
+  },
+  {
+    "name": "Ciasto wiśniowe",
+    "icon": "pie_cherry_slice",
+    "protein": 3,
+    "kcal": 330,
+    "sugar": 24,
+    "healthy": false
+  },
+  {
+    "name": "Ananas",
+    "icon": "pineapple",
+    "protein": 1,
+    "kcal": 75,
+    "sugar": 14,
+    "healthy": true
+  },
+  {
+    "name": "Pistacje",
+    "icon": "pistachios",
+    "protein": 12,
+    "kcal": 260,
+    "sugar": 3,
+    "healthy": true
+  },
+  {
+    "name": "Pizza pepperoni",
+    "icon": "pizza_pepperoni_whole",
+    "protein": 16,
+    "kcal": 440,
+    "sugar": 5,
+    "healthy": false
+  },
+  {
+    "name": "Popcorn",
+    "icon": "popcorn",
+    "protein": 6,
+    "kcal": 190,
+    "sugar": 1,
+    "healthy": true
+  },
+  {
+    "name": "Lód na patyku",
+    "icon": "popsicle",
+    "protein": 0,
+    "kcal": 85,
+    "sugar": 18,
+    "healthy": false
+  },
+  {
+    "name": "Precel",
+    "icon": "pretzel",
+    "protein": 8,
+    "kcal": 240,
+    "sugar": 3,
+    "healthy": false
+  },
+  {
+    "name": "Tarta wytrawna",
+    "icon": "quiche",
+    "protein": 12,
+    "kcal": 310,
+    "sugar": 3,
+    "healthy": true
+  },
+  {
+    "name": "Kulka ryżowa",
+    "icon": "rice_ball",
+    "protein": 4,
+    "kcal": 180,
+    "sugar": 1,
+    "healthy": true
+  },
+  {
+    "name": "Wafel ryżowy",
+    "icon": "rice_cracker",
+    "protein": 3,
+    "kcal": 120,
+    "sugar": 0,
+    "healthy": true
+  },
+  {
+    "name": "Jeżyny",
+    "icon": "rubus_blackberry",
+    "protein": 1,
+    "kcal": 45,
+    "sugar": 5,
+    "healthy": true
+  },
+  {
+    "name": "Maliny",
+    "icon": "rubus_raspberry",
+    "protein": 1,
+    "kcal": 50,
+    "sugar": 5,
+    "healthy": true
+  },
+  {
+    "name": "Pieróg samosa",
+    "icon": "samosa",
+    "protein": 6,
+    "kcal": 260,
+    "sugar": 3,
+    "healthy": false
+  },
+  {
+    "name": "Kanapka",
+    "icon": "sandwich",
+    "protein": 15,
+    "kcal": 320,
+    "sugar": 4,
+    "healthy": true
+  },
+  {
+    "name": "Kiełbaska",
+    "icon": "sausage",
+    "protein": 14,
+    "kcal": 270,
+    "sugar": 1,
+    "healthy": false
+  },
+  {
+    "name": "Smażone krewetki",
+    "icon": "shrimp_fried",
+    "protein": 18,
+    "kcal": 250,
+    "sugar": 1,
+    "healthy": false
+  },
+  {
+    "name": "Barszcz czerwony",
+    "icon": "soup_beet",
+    "protein": 3,
+    "kcal": 90,
+    "sugar": 6,
+    "healthy": true
+  },
+  {
+    "name": "Stek z grilla",
+    "icon": "steak_grilled",
+    "protein": 28,
+    "kcal": 290,
+    "sugar": 0,
+    "healthy": true
+  },
+  {
+    "name": "Truskawka",
+    "icon": "strawberry",
+    "protein": 1,
+    "kcal": 35,
+    "sugar": 5,
+    "healthy": true
+  },
+  {
+    "name": "Nadziewana pita",
+    "icon": "stuffed_pita",
+    "protein": 17,
+    "kcal": 350,
+    "sugar": 4,
+    "healthy": true
+  },
+  {
+    "name": "Rolka sushi",
+    "icon": "sushi_roll",
+    "protein": 9,
+    "kcal": 210,
+    "sugar": 4,
+    "healthy": true
+  },
+  {
+    "name": "Taco",
+    "icon": "taco",
+    "protein": 14,
+    "kcal": 240,
+    "sugar": 3,
+    "healthy": true
+  },
+  {
+    "name": "Tamale",
+    "icon": "tamale",
+    "protein": 8,
+    "kcal": 230,
+    "sugar": 2,
+    "healthy": true
+  },
+  {
+    "name": "Tofu",
+    "icon": "tofu",
+    "protein": 14,
+    "kcal": 140,
+    "sugar": 1,
+    "healthy": true
+  },
+  {
+    "name": "Pomidor",
+    "icon": "tomato",
+    "protein": 1,
+    "kcal": 25,
+    "sugar": 3,
+    "healthy": true
+  },
+  {
+    "name": "Gofr",
+    "icon": "waffle",
+    "protein": 6,
+    "kcal": 290,
+    "sugar": 14,
+    "healthy": false
+  },
+  {
+    "name": "Kawałek arbuza",
+    "icon": "watermelon_slice",
+    "protein": 1,
+    "kcal": 45,
+    "sugar": 9,
+    "healthy": true
+  }
+]

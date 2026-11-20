@@ -3,6 +3,7 @@ package com.example.obzartuch;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;
 
@@ -13,30 +14,25 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //ID
         CardView cardPlay = findViewById(R.id.card_play);
         CardView cardCollection = findViewById(R.id.card_collection);
         CardView cardExit = findViewById(R.id.card_exit);
 
-        //Gra
         cardPlay.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, GameActivity.class);
-                //startActivity(intent);
+                startActivity(intent);
             }
         });
 
-        //Skorki
         cardCollection.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, CollectionActivity.class);
-                //startActivity(intent);
+                Toast.makeText(MainActivity.this, "Kolekcja w budowie", Toast.LENGTH_SHORT).show();
             }
         });
 
-        //Wyjscie
         cardExit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
